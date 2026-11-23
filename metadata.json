@@ -1,0 +1,6 @@
+{
+  "name": "Anh Văn Phản Xạ",
+  "description": "Ứng dụng luyện phản xạ giao tiếp tiếng Anh thực tế theo tình huống đời sống và công việc.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
